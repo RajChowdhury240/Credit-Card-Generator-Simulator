@@ -54,6 +54,7 @@ new Vue({
             }
         }
     },
+    
     methods: {
         flipCard(status) {
             this.isCardFlipped = status;
